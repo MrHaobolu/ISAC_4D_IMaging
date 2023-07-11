@@ -6,6 +6,8 @@
   * environment_SE.m  (Simplified version of scatterer simulation)
   * environment.m  (Scatterers simulation)
   * environment_disp.m  (Display the simulation of environment)
+  * goldseq.m & m_generate.m  (Sequence generation)
+  * rcoswindow.m  (OFDM windowing algorithm)
 # Imaging Results Presentation
 ![original](./image/original_environment.png)
 ![result](./image/2D_FFT+2D_music_result.png)
