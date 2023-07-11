@@ -28,4 +28,4 @@
 ![result](./4D_FFT/image/4DFFT_32_32RX_result.png)
 
 ## Publication of papers
-The paper is being submitted, stay tuned!
+The paper is being submitted, please stay tuned!
