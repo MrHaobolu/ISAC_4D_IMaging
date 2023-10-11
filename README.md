@@ -31,4 +31,4 @@
 * Metric.py
 
 ## Publication of papers
-The paper is being submitted, please stay tuned!
+https://doi.org/10.48550/arXiv.2310.06401
