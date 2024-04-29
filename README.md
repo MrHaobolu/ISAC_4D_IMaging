@@ -33,7 +33,7 @@ Deep Learning Based Multi-Node ISAC 4D Environmental Reconstruction with Uplink-
 
 ## Multi-Node UL-DL Cooperation 
 The paper is being submitted and the code is being organized, so stay tuned!
-![result](./Multi-Node UL-DL Cooperation/multi_node_result.png)
+![result](Multi-Node_UL-DL_Cooperation/multi_node_result.png)
 
 ## Publication of papers
 * Single Node
