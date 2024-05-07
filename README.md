@@ -1,6 +1,6 @@
 # ISAC_4D_IMaging
-4D ISAC Imaging Simulation Based on Millimeter Wave OFDM Signals with MUSIC Algorithm Written in Matlab
-Deep Learning Based Multi-Node ISAC 4D Environmental Reconstruction with Uplink- Downlink Cooperation
+* 4D ISAC Imaging Simulation Based on Millimeter Wave OFDM Signals with MUSIC Algorithm Written in Matlab
+* Deep Learning Based Multi-Node ISAC 4D Environmental Reconstruction with Uplink- Downlink Cooperation
 # Document Structure
 * 2D_FFT+2D_MUSCI
   * ref_ofdm_imaging_2DFFT_2DMUSIC.m  (Main function)
